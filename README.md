@@ -1,5 +1,5 @@
 
-# 🌿 Plant Disease Detection Web App
+# 🌿 Plant Disease Prediction Web App
 
 A full-stack AI-powered web app to detect plant diseases from leaf images using a trained deep learning model. Built with **FastAPI** and **React**, and backed by **MongoDB** for storing predictions.
 
